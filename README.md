@@ -14,6 +14,6 @@
    `terraform apply`
    
    
-   Clip below shows IaC using terraform
+   Clip below shows how to execute the codes and provision this IaC using terraform:
    
    ![Project](https://user-images.githubusercontent.com/83725346/169901391-706565f9-bc38-4f20-bb8f-d6d00e6518a1.gif)
